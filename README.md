@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # workshop-template Ben Marwick
+=======
+# workshop-template Liying Wang
+>>>>>>> 907a4dc845aae61f8c5c36496152d4f942f86365
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
